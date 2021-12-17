@@ -5,7 +5,7 @@ They are a useful starting point for anyone who wants to continue their learning
 ## PowerPoint Slide
 For the people who want to see the [Power Point deck](PowerPlatform101.pptx)
 
-## msapp file for the simple pet adoption app
+## Msapp file for the Pet Adoption app
 If you want to see completed version of Pet Adoption App, Download [MSAPP file](PetAdoptionApp.msapp) and open from PowerApps.
 
 ## Useful links
