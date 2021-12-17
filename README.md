@@ -9,7 +9,7 @@ For the people who want to see the [Power Point deck](PowerPlatform101.pptx)
 If you want to see completed version of Pet Adoption App, Download [MSAPP file](PetAdoptionApp.msapp) and open from PowerApps.
 
 ## Useful links
-- Audit App: Data driven Canvas app for auditing 
+- The Universal Audit App: Data driven Canvas app for auditing. See this [YouTube Video](https://www.youtube.com/watch?v=2-Ieg3RZzLA) for more information & details on how to purchase
 
 ## Contact info
 
