@@ -3,11 +3,10 @@
 
 
 ## PowerPoint Slide
-For the people who want to see the power point slide
+For the people who want to see the [Power Point deck](PowerPlatform101.pptx)
 
 ## msapp file for the simple pet adoption app
 If you missed the PowerApps part
-
 
 ## Contact info
 
