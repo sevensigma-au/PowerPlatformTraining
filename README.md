@@ -1,5 +1,5 @@
-# PowerPlatformTraining
- PowerPlatform Training materials
+# Power PlatformTraining
+ Power Platform Training materials
 
 
 ## PowerPoint Slide
