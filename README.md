@@ -10,6 +10,7 @@ If you want to see completed version of Pet Adoption App, Download [MSAPP file](
 
 ## Useful links
 - The Universal Audit App: Data driven Canvas app for auditing. See this [YouTube Video](https://www.youtube.com/watch?v=2-Ieg3RZzLA) for more information & details on how to purchase
+- [Microsoft Power Platform: Learning Resources](https://aka.ms/PowerPlatformResources): Summary of resources
 
 ## Contact info
 
